@@ -1,3 +1,4 @@
+#Linux-Basic-Assignment-Mahalakshmi
 SECTION 1 – Write the purpose and an example usage for each command.
 1.  pwd - Shows the current working directory (ex:/home/user/Desktop)
 2.  ls - Lists files and folders in the current directory (ex:SQL  Java  README.md)
