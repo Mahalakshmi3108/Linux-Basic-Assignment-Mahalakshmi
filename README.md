@@ -28,9 +28,9 @@ SECTION 3 – Concept Questions
 
 1.  What is the difference between > and >> in Linux?
     > → Redirects output to a file, overwriting the existing content.
-    echo "Hello" > file.txt  # file.txt will only contain "Hello"
+        echo "Hello" > file.txt  # file.txt will only contain "Hello"
     >> → Appends output to a file, keeping existing content.
-    echo "World" >> file.txt  # "World" will be added at the end of file.txt
+        echo "World" >> file.txt  # "World" will be added at the end of file.txt
 2.  What is the purpose of the kill -9 command?
     kill -9 <PID> forcefully terminates a process with the given Process ID.
     -9 sends the SIGKILL signal, which cannot be ignored by the process.
@@ -43,7 +43,7 @@ SECTION 3 – Concept Questions
 5.  What is the purpose of the ping command?
     Tests connectivity to a host (IP address or domain) and measures round-trip time.
     ex:ping google.com
-    # Shows if the server is reachable and the response time
+    Shows if the server is reachable and the response time
 
     SECTION 4 – Scenario based Questions
 
