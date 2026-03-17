@@ -27,9 +27,9 @@ SECTION 2 – Write the Linux command for the following tasks.
 SECTION 3 – Concept Questions
 
 1.  What is the difference between > and >> in Linux?
-    > → Redirects output to a file, overwriting the existing content.
+    (>) → Redirects output to a file, overwriting the existing content.
         echo "Hello" > file.txt  # file.txt will only contain "Hello"
-    >> → Appends output to a file, keeping existing content.
+    (>>) → Appends output to a file, keeping existing content.
         echo "World" >> file.txt  # "World" will be added at the end of file.txt
 2.  What is the purpose of the kill -9 command?
     kill -9 <PID> forcefully terminates a process with the given Process ID.
